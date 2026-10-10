@@ -52,7 +52,7 @@ export default function Projects() {
             viewport={{ once: true }}
             className="w-full lg:flex-1 flex items-center justify-center lg:justify-end relative lg:-mr-16 xl:-mr-[120px] 2xl:-mr-[160px] min-h-[300px] lg:min-h-[580px]"
           >
-            <img src="/images/Mobile1.png" alt="Harnty App Mockup" className="w-full max-w-[400px] lg:max-w-[880px] xl:max-w-[1024px] object-contain drop-shadow-2xl" />
+            <img src="/images/mobile1.png" alt="Harnty App Mockup" className="w-full max-w-[400px] lg:max-w-[880px] xl:max-w-[1024px] object-contain drop-shadow-2xl" />
           </motion.div>
         </div>
       </section>
@@ -95,7 +95,7 @@ export default function Projects() {
             viewport={{ once: true }}
             className="w-full lg:flex-1 flex items-center justify-center lg:justify-end relative lg:-mr-16 xl:-mr-[120px] 2xl:-mr-[160px] min-h-[300px] lg:min-h-[580px]"
           >
-            <img src="/images/Mobile2.png" alt="Discovery App Mockup" className="w-full max-w-[400px] lg:max-w-[880px] xl:max-w-[1024px] object-contain drop-shadow-2xl" />
+            <img src="/images/mobile2.png" alt="Discovery App Mockup" className="w-full max-w-[400px] lg:max-w-[880px] xl:max-w-[1024px] object-contain drop-shadow-2xl" />
           </motion.div>
         </div>
       </section>
